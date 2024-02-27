@@ -1,6 +1,6 @@
 {
   "name": "baringsang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stress test ",
   "main": "index.js",
   "scripts": {
